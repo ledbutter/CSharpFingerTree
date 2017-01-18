@@ -1,0 +1,7 @@
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\bin\Debug\FNSeq.dll
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\bin\Debug\FNSeq.pdb
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\bin\Debug\FingerTree.dll
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\bin\Debug\FingerTree.pdb
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\obj\Debug\FNSeq.csprojResolveAssemblyReference.cache
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\obj\Debug\FNSeq.dll
+F:\_GitHub\CSharpFingerTree\FingerTree\FNSeq\obj\Debug\FNSeq.pdb
