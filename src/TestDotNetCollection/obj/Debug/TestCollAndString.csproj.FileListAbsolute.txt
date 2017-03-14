@@ -1,9 +1,0 @@
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\bin\Debug\TestDotNetCollection.exe
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\bin\Debug\TestDotNetCollection.pdb
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\bin\Debug\FingerTree.dll
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\bin\Debug\FNSeq.dll
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\bin\Debug\FingerTree.pdb
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\bin\Debug\FNSeq.pdb
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\obj\Debug\TestCollAndString.csprojResolveAssemblyReference.cache
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\obj\Debug\TestDotNetCollection.exe
-F:\_GitHub\CSharpFingerTree\FingerTree\TestDotNetCollection\obj\Debug\TestDotNetCollection.pdb

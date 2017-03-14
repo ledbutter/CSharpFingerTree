@@ -15,9 +15,9 @@ namespace FingerTree
 
         public Key(V noKey, getKey KeyAssign)
         {
+            NoKey = noKey;
             this.KeyAssign = KeyAssign;
         }
-
     }
 
     public class KeyMonoid<T, V> where V : IComparable
